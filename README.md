@@ -1,6 +1,7 @@
 # TypeScript Exercises - Part 9
 
 This repository contains exercises from part 9 of the course on TypeScript. The `myApp` folder contains the exercises from the `courseParts` project.
+`ilary` and `patientor` corresponds to the `backend` of their respective app projects.
 
 ## Topics Covered
 
